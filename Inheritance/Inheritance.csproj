@@ -5,4 +5,8 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\tyler\Desktop\repos\InheritanceExercise\InheritanceNumberTwo.cs" Link="InheritanceNumberTwo.cs" />
+  </ItemGroup>
+
 </Project>
